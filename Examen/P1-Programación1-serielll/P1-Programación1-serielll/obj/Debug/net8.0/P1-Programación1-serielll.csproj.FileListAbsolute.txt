@@ -1,0 +1,14 @@
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\bin\Debug\net8.0\P1-Programación1-serielll.exe
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\bin\Debug\net8.0\P1-Programación1-serielll.deps.json
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\bin\Debug\net8.0\P1-Programación1-serielll.runtimeconfig.json
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\bin\Debug\net8.0\P1-Programación1-serielll.dll
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\bin\Debug\net8.0\P1-Programación1-serielll.pdb
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\obj\Debug\net8.0\P1-Programación1-serielll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\obj\Debug\net8.0\P1-Programación1-serielll.AssemblyInfoInputs.cache
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\obj\Debug\net8.0\P1-Programación1-serielll.AssemblyInfo.cs
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\obj\Debug\net8.0\P1-Programación1-serielll.csproj.CoreCompileInputs.cache
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\obj\Debug\net8.0\P1-Programación1-serielll.dll
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\obj\Debug\net8.0\refint\P1-Programación1-serielll.dll
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\obj\Debug\net8.0\P1-Programación1-serielll.pdb
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\obj\Debug\net8.0\P1-Programación1-serielll.genruntimeconfig.cache
+C:\Users\Flex\Desktop\Examen\P1-Programación1-serielll\P1-Programación1-serielll\obj\Debug\net8.0\ref\P1-Programación1-serielll.dll
